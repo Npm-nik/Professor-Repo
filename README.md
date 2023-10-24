@@ -1,4 +1,6 @@
 # Professor-Repo
-This is my first repositry
+This is my first repository
 <br>
-Auhtor - Nikhil Rathore
+Author - Nikhil Rathore (Nik)
+
+
